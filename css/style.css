@@ -1,4 +1,46 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
+/*CSS FILE FOR HTML*/
+/* MADE BY : GUSTAV I.*/ 
+
+/*Header*/
+h1 {
+  text-align : center;
+  background-color : #c55d07;
+  color : #fff;
+}
+
+/*Header 4*/
+h4 {
+  text-align : center;
+}
+
+/*Body*/
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+/*Container*/
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/*Button*/
+button {
+  background-color : #c55d07;
+  color : #fff;
+}
+
+/*Result style*/
+.result {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+
